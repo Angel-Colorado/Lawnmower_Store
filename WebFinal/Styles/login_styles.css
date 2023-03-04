@@ -1,0 +1,48 @@
+﻿
+html, body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.00), rgba(0, 0, 0, 0.00)), url('../Styles/wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+.card {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 350px;
+    background-color: rgba(0, 42, 119, 0.90) !important;
+}
+
+.social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+}
+
+.social_icon span:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: -40px;
+    color: #FF7501;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+/* Disables the footer and adjust the margin at the bottom*/
+footer{
+    display:none;
+}
+
+body {
+    margin-bottom: 0px;
+}

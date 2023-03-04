@@ -1,0 +1,9 @@
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\bin\Debug\Emmas.mdf
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\bin\Debug\Emmas_log.ldf
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\bin\Debug\LibraryFinal.dll.config
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\bin\Debug\LibraryFinal.dll
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\bin\Debug\LibraryFinal.pdb
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\obj\Debug\LibraryFinal.csproj.AssemblyReference.cache
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\obj\Debug\LibraryFinal.csproj.CoreCompileInputs.cache
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\obj\Debug\LibraryFinal.dll
+M:\Niagara College\3rd term\03 RAD Client-Server Project\Projects\FinalProject\LibraryFinal\obj\Debug\LibraryFinal.pdb
